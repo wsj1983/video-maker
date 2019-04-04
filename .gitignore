@@ -60,5 +60,8 @@ typings/
 # next.js build output
 .next
 
-#credentials
+# credentials
 credentials/*.json
+
+# arquivo que salva os dados buscados e tratados
+content.json
