@@ -65,3 +65,6 @@ credentials/*.json
 
 # arquivo que salva os dados buscados e tratados
 content.json
+
+content/*.png
+.DS_Store
